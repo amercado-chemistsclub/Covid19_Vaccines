@@ -10,3 +10,6 @@ https://www.nature.com/articles/d41586-021-00031-0
 
 The latest study on one variant seems to indicate that one can still get re-infected despite having antibodies from a recent Covid19 infection.  And the current vaccines may not be able to exhibit the same high efficacies that were demonstrated in the trials against  this new strain. 
 https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
+
+But one vaccine manufacturer, Moderna,  has already conducted studies on the new strains with its current FDA approved dosage. Their results so far indicate that the current  dosing regimen can be enhanced with a booster shot for the new strains according to their preliminary results.
+https://www.biorxiv.org/content/10.1101/2021.01.25.427948v1
