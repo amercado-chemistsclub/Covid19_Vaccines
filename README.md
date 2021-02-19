@@ -13,3 +13,9 @@ https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
 
 But one vaccine manufacturer, Moderna,  has already conducted studies on the new strains with its current FDA approved dosage. Their results so far indicate that the current  dosing regimen can be enhanced with a booster shot for the new strains according to their preliminary results.
 https://www.biorxiv.org/content/10.1101/2021.01.25.427948v1
+
+In addition, the other mRNA vaccine dosage by Pfizer/Biontech  was tested on the prominent Covid-19 variant, the UK strain, and determined to exhibit the same vaccine neutralization against it as it demonstrated against the original Wuhan strain in the clinical trials. 
+https://www.biorxiv.org/content/10.1101/2021.01.18.426984v1
+
+However, the initial laboratory study conducted on the other variant, the prominent South Africa strain, shows that it drops the Pfizer/Biontech vaccine neutralization by roughly two thirds when compared to the original strain.
+https://www.nejm.org/doi/full/10.1056/NEJMc2102017?query=featured_home
