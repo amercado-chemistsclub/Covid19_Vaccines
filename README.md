@@ -19,3 +19,9 @@ https://www.biorxiv.org/content/10.1101/2021.01.18.426984v1
 
 However, the initial laboratory study conducted on the other variant, the prominent South Africa strain, shows that it drops the Pfizer/Biontech vaccine neutralization by roughly two thirds when compared to the original strain.
 https://www.nejm.org/doi/full/10.1056/NEJMc2102017?query=featured_home
+
+And Moderna, the other mRNA vaccine manufacturer, reported that the same South African strain reduced neutralizing antibody levels by a factor of 2.7 in  laboratory measurements.
+https://www.nejm.org/doi/full/10.1056/NEJMc2102179?query=featured_home
+
+Meanwhile, the protein subunit Covid-19 vaccine developed by Novavax had been tested in different global trials on the new UK and South African strains. The vaccine’s efficacy only dropped from approximately 96%  to approximately 86% for the UK strain. However, the drop in efficacy was more dramatic to approximately 49% for the South African strain. 
+https://www.nature.com/articles/d41586-021-00268-9
