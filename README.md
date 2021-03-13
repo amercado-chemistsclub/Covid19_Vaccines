@@ -25,3 +25,14 @@ https://www.nejm.org/doi/full/10.1056/NEJMc2102179?query=featured_home
 
 Meanwhile, the protein subunit Covid-19 vaccine developed by Novavax had been tested in different global trials on the new UK and South African strains. The vaccine’s efficacy only dropped from approximately 96%  to approximately 86% for the UK strain. However, the drop in efficacy was more dramatic to approximately 49% for the South African strain. 
 https://www.nature.com/articles/d41586-021-00268-9
+
+The other vaccine manufacturers started to read out their trial data with the inclusion of regional trials where the variants were more dominant than the original strain
+
+Astra Zeneca’s  recombinant viral vector vaccine did not exhibit  any degree of efficacy in protection against the South African variant that was at the level of the  efficacy of 75% in protection against the original Wuhan variant. 
+https://www.medrxiv.org/content/10.1101/2021.02.10.21251247v1
+
+Initially, Johnson and Johnson’s recombinant viral vector vaccine data showed an overall efficacy of 66%  in preventing the Covid infection across different geographical regions. It was 72% effective in preventing Covid-19 in the US but it dropped to 66% In Latin America and 57% in South Africa, which had a greater percentage of the variants in its population. 
+https://www.statnews.com/2021/01/29/jj-one-dose-covid-vaccine-is-66-effective-a-weapon-but-not-a-knockout-punch
+
+By the time that Johnson and Johnson received the EUA from the FDA, the data showed better results by preventing a severe disease outcome from Covid-19 infection of approximately 82% with their single dose. 
+https://www.statnews.com/2021/02/24/new-data-shed-light-on-efficacy-of-jjs-single-dose-vaccine-against-covid-19/
