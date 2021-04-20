@@ -36,3 +36,12 @@ https://www.statnews.com/2021/01/29/jj-one-dose-covid-vaccine-is-66-effective-a-
 
 By the time that Johnson and Johnson received the EUA from the FDA, the data showed better results by preventing a severe disease outcome from Covid-19 infection of approximately 82% with their single dose. 
 https://www.statnews.com/2021/02/24/new-data-shed-light-on-efficacy-of-jjs-single-dose-vaccine-against-covid-19/
+
+In the UK, the studies that were conducted after their vaccine deployment showed that the vaccine efficacy for the Pfizer/Biontech mRNA  type was  up to 90%  against the Covid-19 infection after just a single dose and  the period after vaccination was up to 21 days before final testing. 
+https://www.researchgate.net/publication/349038325_Estimating_the_effectiveness_of_the_Pfizer_COVID-19_BNT162b2_vaccine_after_a_single_dose_A_reanalysis_of_a_study_of_'real-world'_vaccination_outcomes_from_Israel
+
+The question of transmission of the Covid-19 virus after vaccination was addressed by the Isreali study on the Pfizer/Biontech mRNA vaccine where the reduction in the viral concentration was up to 4 fold and thereby reduce the infectious spread of Covid-19. 
+https://www.medrxiv.org/content/10.1101/2021.02.06.21251283v1.full-text
+
+But the recombinant viral vector vaccine types (developed by Astra Zeneca and Johnson and Johnson) were starting to produce blood clotting side effects in a few cases as reported and tracked by the European Health Agency, where they first occurred. 
+https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-6-9-april-2021
