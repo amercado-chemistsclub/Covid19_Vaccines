@@ -45,3 +45,13 @@ https://www.medrxiv.org/content/10.1101/2021.02.06.21251283v1.full-text
 
 But the recombinant viral vector vaccine types (developed by Astra Zeneca and Johnson and Johnson) were starting to produce blood clotting side effects in a few cases as reported and tracked by the European Health Agency, where they first occurred. 
 https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-6-9-april-2021
+
+Initially, the distribution of the Astra-Zeneca vaccine was suspended by EU countries and the  distribution of the Johnson and Johnson vaccine was suspended in the US due to the blood clotting effects. The side effect in the small number of patients lead to the initial studies in understanding the root cause of the effect. 
+https://www.statnews.com/2021/04/13/researchers-search-for-answers-in-puzzle-of-blood-clots-and-covid-vaccines-and-see-some-clues/?utm_source=STAT+Newsletters&utm_campaign=71865f2b4b-Daily_Recap&utm_medium=email&utm_term=0_8cab1d7961-71865f2b4b-152730449
+
+In the US, the FDA regulators decided to halt the pause in the Johnson and Johnson vaccine for a variety of reasons after the EU regulators decided to resume the distribution of the Astra-Zeneca vaccine. 
+https://www.biopharmadive.com/news/cdc-acip-johnson-johnson-vaccine-meeting/598969/?utm_source=Sailthru&utm_medium=email&utm_campaign=Newsletter Weekly Roundup: BioPharma Dive: Daily Dive 04-24-2021&utm_term=BioPharma Dive Weekender
+
+In order the follow the status of the various Covid-19 vaccines in the pipeline and if any side effects interrupt their approval for use refer to the chronological vaccine pipeline tracker.
+https://www.biopharmadive.com/news/coronavirus-vaccine-pipeline-types/579122/
+
