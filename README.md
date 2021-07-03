@@ -52,6 +52,18 @@ https://www.statnews.com/2021/04/13/researchers-search-for-answers-in-puzzle-of-
 In the US, the FDA regulators decided to halt the pause in the Johnson and Johnson vaccine for a variety of reasons after the EU regulators decided to resume the distribution of the Astra-Zeneca vaccine. 
 https://www.biopharmadive.com/news/cdc-acip-johnson-johnson-vaccine-meeting/598969/?utm_source=Sailthru&utm_medium=email&utm_campaign=Newsletter Weekly Roundup: BioPharma Dive: Daily Dive 04-24-2021&utm_term=BioPharma Dive Weekender
 
-In order the follow the status of the various Covid-19 vaccines in the pipeline and if any side effects interrupt their approval for use refer to the chronological vaccine pipeline tracker.
+In order to follow the status of the various Covid-19 vaccines in the pipeline, their overall efficacy,  and if any side effects disrupt their distribution after receiving approval for use, refer to the chronological vaccine pipeline tracker.
 https://www.biopharmadive.com/news/coronavirus-vaccine-pipeline-types/579122/
+
+More data on the effects of Covid-19 variants  on the efficacy of the currently approved and widely distributed  vaccines are becoming available as new outbreaks around the world increase. 
+From one of the latest reviews on Covid spike protein mutations, there was more evidence of their resistance to the ability of the  vaccine antibodies to neutralize them.   https://www.nature.com/articles/s41579-021-00573-0
+
+In addition, the lifetime of Covid antibodies, acquired from either receiving the vaccination or from infection, is being studied to see if  they can last up to 11 months before a booster shot may be required. 
+https://www.nature.com/articles/d41586-021-01442-9?utm_source=Nature+Briefing&utm_campaign=6642113fdd-briefing-dy-20210527&utm_medium=email&utm_term=0_c9dfd39373-6642113fdd-45985486
+
+After the global distribution of  Covid-19 vaccines for more than 6 months, the most experience and the most data on the their impact on the pandemic  is seen in several countries from this review. 
+https://www.nature.com/articles/d41586-021-01505-x
+
+The Indian variant (i.e. Delta) was the one that was closely being studied  for its higher transmission and ability to evade  the current vaccines as  breakthrough infections after the severe outbreak in the country. 
+https://www.nature.com/articles/d41586-021-01274-7?utm_source=Nature+Briefing&utm_campaign=9a8cc368a5-briefing-dy-20210511&utm_medium=email&utm_term=0_c9dfd39373-9a8cc368a5-45985486
 
