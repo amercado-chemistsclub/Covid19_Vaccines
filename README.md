@@ -64,6 +64,13 @@ https://www.nature.com/articles/d41586-021-01442-9?utm_source=Nature+Briefing&ut
 After the global distribution of  Covid-19 vaccines for more than 6 months, the most experience and the most data on the their impact on the pandemic  is seen in several countries from this review. 
 https://www.nature.com/articles/d41586-021-01505-x
 
-The Indian variant (i.e. Delta) was the one that was closely being studied  for its higher transmission and ability to evade  the current vaccines as  breakthrough infections after the severe outbreak in the country. 
+The Indian variant (i.e. Delta) was the one that was closely being studied  for its higher transmission and ability to evade  the current vaccines through  breakthrough infections after the severe outbreak in one country spreads to others. 
 https://www.nature.com/articles/d41586-021-01274-7?utm_source=Nature+Briefing&utm_campaign=9a8cc368a5-briefing-dy-20210511&utm_medium=email&utm_term=0_c9dfd39373-9a8cc368a5-45985486
+
+The rise in the Covid-19 infection rate in the UK and US, while vaccines are still being distributed to unvaccinated segments of the global population, can be attributed to the higher transmissibility of the Delta variant. The mutation in the variant is projected to increase transmission to  between 40 to 60%  over the original UK variant. Despite the increase in hospitalizations, there’s not enough data evidence that  the Delta variant appears to be more deadly than the other variants.
+https://coronavirus.nautil.us/is-the-delta-variant-more-deadly/
+
+The testing of the currently deployed vaccines for protection against the Delta (i.e. Indian) variant was conducted in a UK study of adenovirus vector and mRNA vaccines. The study for prevention against Covid hospitalization and serious symptoms showed that the second dose  of  Pfizer/Biontech was instrumental in maintaining  the efficacy  by up to 88%, while for the Astrazeneca vaccine it was up to 60%. However,a single dose from either vaccine type had an  average 33% efficacy in reducing the risk of symptomatic infection. 
+https://khub.net/web/phe-national/public-library/-/document_library/v2WsRK3ZlEig/view_file/479607329?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_v2WsRK3ZlEig_redirect=https%3A%2F%2Fkhub.net%3A443%2Fweb%2Fphe-national%2Fpublic-library%2F-%2Fdocument_library%2Fv2WsRK3ZlEig%2Fview%2F479607266
+
 
