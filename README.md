@@ -77,3 +77,6 @@ The extent of reduction in the efficacy of the vaccines from the new Delta varia
 https://www.biorxiv.org/content/10.1101/2021.07.19.452771v1.full.pdf
 
 The results are consistent with the earlier UK study that involved the Astra Zeneca vaccine even though it was a small lab sample study. 
+
+The increase in breakthrough infections by the Delta variant was being reported in countries where a high percentage of the people were vaccinated, such as Israel and the UK. The extensive study in Israel on the diminishing efficacy of the mRNA Covid vaccines over time was conducted in various age groups. The Pfizer/Biontech vaccine efficacy against the Delta variant infection and its spread dropped to approximately 40% when various age groups were monitored for protection up to the 6 month interval. However, the protection against severe Covid-19 symptoms and hospitalization was still above 88% at that time.
+https://www.gov.il/BlobFolder/reports/vaccine-efficacy-safety-follow-up-committee/he/files_publications_corona_two-dose-vaccination-data.pdf
