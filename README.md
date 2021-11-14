@@ -84,9 +84,15 @@ https://www.gov.il/BlobFolder/reports/vaccine-efficacy-safety-follow-up-committe
 In addition, a study in the UK showed that efficacy against the Delta variant Covid infection will drop over time after the initial full vaccination with both doses. It dropped to 78% after 90 days for the Pfizer/Biontech vaccine while the Astra Zeneca vaccine dropped to  61% efficacy in 90 days as well. This trend in the efficacy decrease over time is compelling countries, where vaccination is high, to consider authorization for booster shots by 6 months from the various manufacturers. 
 https://www.nature.com/articles/d41586-021-02261-8
 
-In another study from the US Mayo Clinic, the efficacy of the mRNA vaccines was studied to track the overall decrease in efficacy before a booster shot may be required. It showed that over a 6 month period the effectiveness of Pfizer/Biontech’s vaccine dropped down to 42% against the infection by the  Delta variant. However, the drop in  for the Moderna vaccine was only 76% over the same time period. The study was limited to the mRNA  vaccines approved in the US. 
+In another study from the US Mayo Clinic, the efficacy of the mRNA vaccines was studied to track the overall decrease in efficacy before a booster shot may be required. It showed that over a 6 month period the effectiveness of Pfizer/Biontech’s vaccine dropped down to 42% against the infection by the  Delta variant. However, the drop in  efficacy for the Moderna vaccine was only 76% over the same time period. The study was limited to the mRNA  vaccines approved in the US. 
 https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v1.full.pdf
 
 An EU study showed that a full dose of the  Moderna mRNA vaccine created more antibodies titers than Pfizer’s vaccine. The study attributed it to the higher vaccine dosage that one receives with the Moderna vaccine as well as the longer time interval between doses.  
 https://jamanetwork.com/journals/jama/fullarticle/2783797?guestAccessKey=6ead80fe-bf08-4d53-8c5c-607249932480&utm_source=silverchair&utm_medium=email&utm_campaign=article_alert-jama&utm_content=olf&utm_term=083021
+
+The increase in Covid infected hospitalization cases from the Delta variant was monitored against the original UK variant in a large sample  study in the UK. The risk of hospitalization for both was derived from the total case counts for patients; it was 5.5% of cases leading to hospitalization for the Delta variant vs 3.9% of cases  for the alpha variant for those unvaccinated or 3 weeks after receiving one dose.
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00475-8/fulltext
+
+However, it order to determine how high the projected increase in Covid infection  from the Delta variant is for any specific region, refer to the models already developed.
+https://www.covidestim.org/
 
