@@ -96,3 +96,13 @@ https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00475-8/fullt
 However, it order to determine how high the projected increase in Covid infection  from the Delta variant is for any specific region, refer to the models already developed.
 https://www.covidestim.org/
 
+Studies with variants of concern were beginning to reveal reduced effectiveness in both fully vaccinated and partially vaccinated people with the Pfizer/Biontech vaccine. 
+In a small population lab study the ability to break through the full dose vaccine with  the Covid  Delta and UK variants was measured for the Pfizer Biontech distribution in Israel.The original South African beta variant broke through with a much higher frequency but the transmission rate was low for this variant.
+https://www.medrxiv.org/content/10.1101/2021.04.06.21254882v1.full.pdf
+
+By the time the Omicron variant was detected in South Africa the small scale laboratory studies to see how easily it evaded the antibody protection for those  fully vaccinated was underway. 
+https://www.nature.com/articles/d41586-021-03614-z
+The contagiousness was much greater than that of other variants with an R factor greater than 2 while the Delta R factor was less than 1. Also, the potential to evade vaccinations and antibodies from prior infections was higher due to the greater number of mutations in the spike protein.
+
+A UK study that looked at the transition in infections from the Delta variant to the Omicron variant showed that the neutralizing antibody reduction was 20-40 fold in early studies with the Pfizer BNT vaccine. The reduction was higher for the Astra Zeneca vaccine.  However, a booster shot added 70-75% effectiveness against symptomatic Covid disease for an early period after vaccine inoculation.
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1040076/Technical_Briefing_31.pdf
