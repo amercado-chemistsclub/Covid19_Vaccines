@@ -95,6 +95,8 @@ https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00475-8/fullt
 
 However, it order to determine how high the projected increase in Covid infection  from the Delta variant is for any specific region, refer to the models already developed.
 https://www.covidestim.org/
+The forecast models that provide other granular Covid data are also available.
+https://www.worldometers.info/coronavirus/country/us/
 
 Studies with variants of concern were beginning to reveal reduced effectiveness in both fully vaccinated and partially vaccinated people with the Pfizer/Biontech vaccine. 
 In a small population lab study the ability to break through the full dose vaccine with  the Covid  Delta and UK variants was measured for the Pfizer Biontech distribution in Israel.The original South African beta variant broke through with a much higher frequency but the transmission rate was low for this variant.
